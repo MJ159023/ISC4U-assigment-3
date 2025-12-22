@@ -1,4 +1,5 @@
 /*
+ * Copyright (c) 2025 St. Mother Teresa HS All rights reserved.
  * The program runs Sylvesters numbers.
  *
  * @author  Michael Bruneau
