@@ -76,7 +76,6 @@ int main() {
                 cout << "\nInvalid input. Number must be equal "
                                     << "to or larger than zero.";
              }
-
         } catch (const std::invalid_argument &err) {
              // error message
              cout << "\nInvalid input.";
